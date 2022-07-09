@@ -1,0 +1,28 @@
+/* ETAPE 1 :  Générer l'ardoise */
+// Créer un tableau avec 8 lignes et 8 cellules (nbr à transformer en variable) (JS)
+    // Créer une balise <table>
+    // Affecter à la div avec l'id invader
+    // Créer une ligne du tableau <tr>
+    // Affecter le <tr> à la balise <table> créée
+    // Créer des cellules <td> avec une classe
+    // Affecter à la ligne <tr> créée
+
+    // Créer une boucle pour générer 8 lignes (nbr à transformer en variable)
+    // Attention: stop-propagation
+// Style du <td>: color / width et height (CSS)
+
+/* ETAPE 2 : Gérer le clic sur un pixel */
+//Mettre un écouteur soit sur la div avec l'id Invader ou sur la balise <table>
+//On va gérer les clicks avec les class CSS
+//On va gérer ces class avec la propriété toggle
+
+
+/* ETAPE 3 : Formulaire de configuration */
+
+//Créer des inputs type Number 
+//Créer un button 
+//Affecter les inputs et le button au form avec la classe configuration
+//Les configurer sur CSS
+//Attenion: prevent-default
+//Le formulaire doit être lié à notre boucle de génération et à la taille de nos pixels
+
